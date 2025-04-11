@@ -1,0 +1,24 @@
+﻿{
+  "levelItems": [
+    {
+      "name": "章一、芭蕉扇下取定风珠\nChapter 1: Retrieving the Wind-Fixing Pearl under the Banana Fan",
+      "levelSceneName": "Level-1",
+      "isScoreLevel": false
+    },
+    {
+      "name": "章二、从白骨精手下解救师父\nChapter 2: Rescuing the Master from the White Bone Spirit",
+      "levelSceneName": "Level-2",
+      "isScoreLevel": false
+    },
+    {
+      "name": "章三、偷取镇元子的人参果\nChapter 3: Stealing the Ginseng Fruit from Zhenyuan",
+      "levelSceneName": "Level-3",
+      "isScoreLevel": false
+    },    
+    {
+      "name": "章四、白龙马寻师兄\nChapter 4: White Dragon Horse Seeks Brothers",
+      "levelSceneName": "Level-4",
+      "isScoreLevel": false
+    }
+  ]
+}

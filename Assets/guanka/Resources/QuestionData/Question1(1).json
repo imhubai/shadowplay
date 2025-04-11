@@ -1,0 +1,60 @@
+﻿{
+  "questionItems": [
+    {
+      "question": "孙悟空的武器是什么?(What is Sun Wukong's weapon?)",
+      "contentA": "三尖两刃刀(Three pointed two bladed knife)",
+      "contentB": "九齿钉耙(Nine tooth rake)",
+      "contentC": "‌火尖枪(Fire Spear)",
+      "contentD": "金箍棒(Magic Golden Cudgel)",
+      "answer": 4
+    },
+    {
+      "question": "孙悟空避风的法宝(Sun Wukong's magic weapon for avoiding wind)",
+      "contentA": "乾坤圈(Qiankun Circle)",
+      "contentB": "玉净瓶(vase of mutton-fat jade)",
+      "contentC": "定风珠(The wind-stopping pearl)",
+      "contentD": "芭蕉扇(palm-leaf fan)",
+      "answer": 3
+    },
+    {
+      "question": "人参果用什么东西打下来(What do I need to beat down the Ginseng fruit)",
+      "contentA": "金刚琢(The Metal Ring)",
+      "contentB": "金箍棒(Magic Golden Cudgel)",
+      "contentC": "混天绫(Chaos Ribbon)",
+      "contentD": "金击子(golden pestle)",
+      "answer": 4
+    },
+    {
+      "question": "人参果的主人是谁(Who is the owner of Ginseng fruit)",
+      "contentA": "白骨精(White Bone Spirit)",
+      "contentB": "镇元大仙(Great Zhenyuan Immorta)",
+      "contentC": "太上老君(Lord Lao Zi)",
+      "contentD": "如来佛祖(Tathagata Buddha)",
+      "answer": 2
+    },
+    {
+      "question": "皮影是为了纪念谁而诞生的(Shadow puppetry was born to commemorate whom)",
+      "contentA": "汉武帝(Emperor Wu of Han)",
+      "contentB": "孙悟空(Sun WuKong)",
+      "contentC": "李夫人(Mrs. Li)",
+      "contentD": "白骨精(White Bone Spirit)",
+      "answer": 3
+    },
+    {
+      "question": "皮影的材料是什么(What is the material of shadow puppetry)",
+      "contentA": "丝绸(silk)",
+      "contentB": "纸(paper)",
+      "contentC": "羊毛(wool)",
+      "contentD": "兽皮(animal skin)",
+      "answer": 4
+    },
+    {
+      "question": "第一个皮影为了纪念谁(Who did the first shadow puppet commemorate)",
+      "contentA": "秦始皇(First Emperor)",
+      "contentB": "花木兰(Mulan)",
+      "contentC": "李夫人(Mrs. Li)",
+      "contentD": "太上老君(Lord Lao Zi)",
+      "answer": 3
+    }
+  ]
+}

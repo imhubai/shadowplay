@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 87925fc40ac394949bee2efb48ecd6a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2230419653955347266
+    second: Guanyupiying_0
+  - first:
+      213: 2367017298175088700
+    second: Guanyupiying_1
+  - first:
+      213: -7651462806817207573
+    second: Guanyupiying_2
+  - first:
+      213: 4224558570136953458
+    second: Guanyupiying_3
+  - first:
+      213: -1295355593504120124
+    second: Guanyupiying_4
+  - first:
+      213: -7492550644748485944
+    second: Guanyupiying_5
+  - first:
+      213: 4013456455817558830
+    second: Guanyupiying_6
+  - first:
+      213: 6666692464669321983
+    second: Guanyupiying_7
+  - first:
+      213: 2620436319500451090
+    second: Guanyupiying_8
+  - first:
+      213: 1309235301251821602
+    second: Guanyupiying_9
+  - first:
+      213: -1219259712859994760
+    second: Guanyupiying_10
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guanyupiying_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1514
+        width: 1311
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc11f95425fb01e0800000000000000
+      internalID: -2230419653955347266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_1
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1457
+        width: 273
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c385ee211b559d020800000000000000
+      internalID: 2367017298175088700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1086
+        width: 406
+        height: 344
+      alignment: 9
+      pivot: {x: 0.1732283, y: 0.85995555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0c8bcd1b80d590800000000000000
+      internalID: -7651462806817207573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 873
+        width: 343
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27268d903a5a0aa30800000000000000
+      internalID: 4224558570136953458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_4
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 548
+        width: 1487
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22f5763f8f50ee0800000000000000
+      internalID: -1295355593504120124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 688
+        width: 460
+        height: 212
+      alignment: 9
+      pivot: {x: 0.8437463, y: 0.7505974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca7426c2ec150890800000000000000
+      internalID: -7492550644748485944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_6
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 266
+        width: 441
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bf082e169a2b730800000000000000
+      internalID: 4013456455817558830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_7
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 13
+        width: 332
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa63679979d48c50800000000000000
+      internalID: 6666692464669321983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_8
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1
+        width: 145
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d3b5ce2f8ad5420800000000000000
+      internalID: 2620436319500451090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_9
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 0
+        width: 211
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2203482e1965b2210800000000000000
+      internalID: 1309235301251821602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guanyupiying_10
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 21
+        width: 258
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875090640c1541fe0800000000000000
+      internalID: -1219259712859994760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 637258144370860232
+  assetBundleName: 
+  assetBundleVariant: 

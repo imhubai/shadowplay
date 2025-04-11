@@ -1,0 +1,19 @@
+﻿{
+  "speechItems": [
+    {
+      "answerCn": "悟空",
+      "textPinyin": "wù kōng",
+      "answerFileName": "wukong_avatar_1"
+    },
+    {
+      "answerCn": "唐僧",
+      "textPinyin": "táng sēng",
+      "answerFileName": "tangseng_avatar_1"
+    },
+    {
+      "answerCn": "八戒",
+      "textPinyin": "bā jiè",
+      "answerFileName": "bajie_avatar_1"
+    }
+  ]
+}

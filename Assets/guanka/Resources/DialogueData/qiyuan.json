@@ -1,0 +1,94 @@
+﻿{
+  "dialogItems": [
+    {
+      "characterName": "旁白 Narrator",
+      "content": "皮影戏最早起源于汉朝。当时汉武帝非常思念去世的李夫人。\nShadow puppetry began in the Han Dynasty. Emperor Wu deeply missed his deceased wife Lady Li.",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "635031168_1743746504_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/h1"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "有人用牛皮剪成她的样子，晚上用烛光把影子投在帘子上。皇帝看得掉眼泪。\nA clever craftsman made her figure from oxhide. When candlelight projected her shadow onto a curtain, the emperor wept.",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "1120070574_1743746523_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/li2"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "唐宋时期皮影手艺大升级！牛皮要刻出24个活动关节。\nTang-Song era saw major upgrades! Artisans carved 24 movable joints on oxhide.",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "37554439_1743746536_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/niupi"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "染颜色用天然矿石粉，配上二胡和锣鼓，手指都能演戏！\nThey used mineral pigments for colors. With erhu and drums, even puppet fingers could act!",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "803777764_1743746551_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/xitai"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "要说最火的皮影戏，还得是《西游记》。故事从石头蹦出的猴子开始——\nThe hottest show? Journey to the West! It starts with a monkey born from a stone...",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "388586676_1743746561_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/wukong_stone"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "这猴子抢走龙宫定海神针，撕烂地府生死簿，最后被佛祖压在山下五百年。\nHe stole the Dragon Palace's magic staff and tore the Book of Death. Buddha trapped him under a mountain for 500 years.",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "2092095286_1743746568_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/wukong"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "后来观音让猴子保护唐僧取经。团队有贪吃猪八戒、老实沙僧，还有白龙变的马！\nGuanyin made the monkey protect monk Tang. The team included Pigsy who ate nonstop, honest Sandy, and a dragon-turned-horse!",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "781879320_1743746581_0",
+      "hasImageChange": true,
+      "imageFileName": "Background/shitu"
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "他们经历了81场劫难：白骨精变三次人，火焰山借芭蕉扇，六耳猕猴冒充孙悟空...\nThey survived 81 disasters: White Bone Spirit transformed thrice, borrowed fan for Flaming Mountain, and a fake Monkey King appeared...",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "1377986882_1743746589_0",
+      "hasImageChange": false,
+      "imageFileName": ""
+    },
+    {
+      "characterName": "旁白 Narrator",
+      "content": "现在皮影戏还在演这些故事。老师傅能让孙悟空的金箍棒甩出火星——\nThese stories still shine in puppetry. Masters make Wukong's staff spark by...",
+      "hasAvatar": false,
+      "avatarFileName": "",
+      "hasSound": true,
+      "soundFileName": "76507548_1743746597_0",
+      "hasImageChange": true,
+      "imageFileName": "none"
+    }
+  ]
+}
