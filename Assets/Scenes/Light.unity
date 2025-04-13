@@ -42500,12 +42500,10 @@ MonoBehaviour:
   textContent: {fileID: 1491534455}
   pinyin: "[sh\u0101 h\xE9 sh\xE0ng]"
   namecn: "\u200B\u200B\u6C99\u548C\u5C1A"
-  content: "\u200B\u200B\u6C99\u548C\u5C1A\uFF08\u6C99\u609F\u51C0\uFF09\u200B\u200B\uFF0C\u672C\u4E3A\u5929\u5EAD\u5377\u5E18\u5927\u5C06\uFF0C\u56E0\u5931\u624B\u6253\u788E\u7409\u7483\u76CF\u88AB\u8D2C\u6D41\u6C99\u6CB3\uFF0C\u53D7\u4E07\u7BAD\u7A7F\u5FC3\u4E4B\u82E6\u3002\u540E\u5F97\u89C2\u97F3\u83E9\u8428\u70B9\u5316\uFF0C\u5243\u5EA6\u4FEE\u884C\uFF0C\u6210\u4E3A\u53D6\u7ECF\u56E2\u961F\u4E2D\u4EFB\u52B3\u4EFB\u6028\u3001\u6C89\u7A33\u53EF\u9760\u7684\u201C\u8C03\u548C\u8005\u201D\uFF0C\u6700\u7EC8\u5C01\u53F7\u300C\u91D1\u8EAB\u7F57\u6C49\u300D\u3002Sha
-    He Shang (Sha Wujing), originally a general of the Heavenly Court, was relegated
-    to the Quicksand River for breaking a glass marble and suffered from the pain
-    of ten thousand arrows piercing his heart. After being enlightened by the Goddess
-    of Mercy, Sha Wujing shaved his head and became a \u201Cmediator\u201D in the
-    scripture-taking team, and was eventually named \u201CGolden Lohan\u201D."
+  content: "\u200B\u200B\u6C99\u548C\u5C1A\u200B\u200B\uFF0C\u672C\u4E3A\u5929\u5EAD\u5377\u5E18\u5927\u5C06\uFF0C\u5728\u53D6\u7ECF\u56E2\u961F\u4E2D\u4EFB\u52B3\u4EFB\u6028\u3001\u6C89\u7A33\u53EF\u9760\uFF0C\u5C01\u53F7\u91D1\u8EAB\u7F57\u6C49\u3002Sha
+    He-Shang, originally a general of the Heavenly Court, is a hard-working, calm
+    and reliable member of the scripture-taking team, and is titled \u201CGolden-bodied
+    Luohan\u201D."
 --- !u!1 &288574845
 GameObject:
   m_ObjectHideFlags: 0
@@ -51729,7 +51727,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0ac6ae7248bed564bb6f09c7c7eff30f, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 63f86d8c0a572094f9c5274bf9e4244a, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -52912,7 +52910,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 33803715715c5054ba93f04109f1ea3c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f8966052842b97a4f91d401de729a489, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -53640,7 +53638,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 843844368aeed534fb9bda62062860d6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d385dab6d4b87f2438e3191eb974d750, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -56801,11 +56799,10 @@ MonoBehaviour:
   textContent: {fileID: 440172302}
   pinyin: "[t\xE1ng s\u0113ng]"
   namecn: "\u5510\u50E7"
-  content: "\u5510\u50E7\uFF0C\u897F\u6E38\u8BB0\u4E3B\u89D2\uFF0C\u5949\u5510\u592A\u5B97\u4E4B\u547D\u8D74\u897F\u5929\u53D6\u7ECF\u3002\u4E09\u5F92\u4E00\u9A6C\u7684\u5E08\u7236:\u5927\u5F92\u5F1F\u5B59\u609F\u7A7A\u795E\u901A\u5E7F\u5927\uFF0C\u4E8C\u5F92\u5F1F\u732A\u516B\u6212\u8D2A\u5403\u61A8\u76F4\uFF0C\u4E09\u5F92\u5F1F\u6C99\u50E7\u5FE0\u539A\u52E4\u6073\uFF0C\u767D\u9F99\u9A6C\u9ED8\u9ED8\u62A4\u884C\u3002\u5E08\u5F92\u5386\u7ECF\u4E5D\u4E5D\u516B\u5341\u4E00\u96BE\uFF0C\u964D\u5996\u4F0F\u9B54\uFF0C\u7834\u9664\u5FC3\u9B54\uFF0C\u7EC8\u62B5\u7075\u5C71\u53D6\u5F97\u771F\u7ECF\u3002Monk
+  content: "\u5510\u50E7\uFF0C\u897F\u6E38\u8BB0\u4E3B\u89D2\uFF0C\u5949\u5510\u592A\u5B97\u4E4B\u547D\u8D74\u897F\u5929\u53D6\u7ECF\u3002\u4E09\u5F92\u4E00\u9A6C\u7684\u5E08\u7236:\u5927\u5F92\u5F1F\u5B59\u609F\u7A7A\u795E\u901A\u5E7F\u5927\uFF0C\u4E8C\u5F92\u5F1F\u732A\u516B\u6212\u8D2A\u5403\u61A8\u76F4\uFF0C\u4E09\u5F92\u5F1F\u6C99\u50E7\u5FE0\u539A\u52E4\u6073\uFF0C\u767D\u9F99\u9A6C\u9ED8\u9ED8\u62A4\u884C\u3002Monk
     Tang, protagonist of Journey to the West, journeyed to retrieve Buddhist scriptures
     under Emperor Taizong's decree. With disciples\u2014Sun Wukong , Zhu Bajie (Pigsy),
-    Sha Wujing (Sandy, loyal), and the White Dragon Horse\u2014they overcame 81 trials,
-    defeated demons, and attained enlightenment. "
+    Sha Wujing (Sandy, loyal), and the White Dragon Horse."
 --- !u!1 &1447271048
 GameObject:
   m_ObjectHideFlags: 0
@@ -56833,7 +56830,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 35b0322daf6f2a547b7b5ea8f37e3707, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 3120260dd67a4744abe508f27bbc40ef, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -62404,12 +62401,11 @@ MonoBehaviour:
   textContent: {fileID: 137777451}
   pinyin: "[zh\u016B b\u0101 ji\xE8]"
   namecn: "\u732A\u516B\u6212"
-  content: "\u200B\u200B\u732A\u516B\u6212\u200B\u200B\uFF0C\u672C\u4E3A\u5929\u5EAD\u5929\u84EC\u5143\u5E05\uFF0C\u56E0\u9189\u9152\u8C03\u620F\u5AE6\u5A25\u89E6\u72AF\u5929\u89C4\uFF0C\u88AB\u8D2C\u4E0B\u51E1\u9519\u6295\u732A\u80CE\u6210\u5996\u3002\u540E\u5F97\u89C2\u97F3\u83E9\u8428\u70B9\u5316\uFF0C\u7688\u4F9D\u4F5B\u95E8\u62A4\u9001\u5510\u50E7\u53D6\u7ECF\uFF0C\u6210\u4E3A\u56E2\u961F\u4E2D\u8D2A\u5403\u597D\u8272\u5374\u5FE0\u5FC3\u7684\u201C\u61A8\u76F4\u62C5\u5F53\u201D\u3002Piggy,
-    originally a marshal of the heavenly canopy, was relegated to the mortal world
-    and became a demon by mistake because of drunkenly molesting Chang'e, which violated
-    the rules of heaven. After being enlightened by the Goddess of Mercy, Piggy converted
-    to Buddhism and escorted the Longevity Monk to fetch scriptures, and became a
-    gluttonous, lustful but loyal \u201Cnaive and straight\u201D member of the team."
+  content: "\u200B\u200B\u732A\u516B\u6212\u200B\u200B\uFF0C\u672C\u4E3A\u5929\u5EAD\u5929\u84EC\u5143\u5E05\uFF0C\u89E6\u72AF\u5929\u89C4\u88AB\u8D2C\u4E0B\u51E1\u9519\u6295\u732A\u80CE\u6210\u5996\u3002\u7688\u4F9D\u4F5B\u95E8\u62A4\u9001\u5510\u50E7\u53D6\u7ECF\uFF0C\u6210\u4E3A\u56E2\u961F\u4E2D\u8D2A\u5403\u597D\u8272\u5374\u5FE0\u5FC3\u7684\u201C\u61A8\u76F4\u62C5\u5F53\u201D\u3002Piggy,
+    originally a marshal in the Heavenly Court, was devolved into a demon by mistake
+    after violating the rules of Heaven. He converted to Buddhism and escorted the
+    Longevity Monk to fetch the scriptures, and became a gluttonous, lustful but
+    loyal \u201Cnaive bearer\u201D in the team."
 --- !u!1 &1653709725
 GameObject:
   m_ObjectHideFlags: 0
@@ -68116,14 +68112,10 @@ MonoBehaviour:
   textContent: {fileID: 1259851151}
   pinyin: "[b\xE1i l\xF3ng m\u01CE]"
   namecn: "\u767D\u9F99\u9A6C"
-  content: "\u200B\u200B\u767D\u9F99\u9A6C\u200B\u200B\uFF0C\u672C\u4E3A\u897F\u6D77\u9F99\u738B\u4E09\u592A\u5B50\uFF0C\u56E0\u7EB5\u706B\u70E7\u6BC1\u7389\u5E1D\u5FA1\u8D50\u7684\u660E\u73E0\u89E6\u72AF\u5929\u6761\uFF0C\u88AB\u8D2C\u81F3\u86C7\u76D8\u5C71\u9E70\u6101\u6DA7\u53D7\u7F5A\u3002\u540E\u5F97\u89C2\u97F3\u83E9\u8428\u70B9\u5316\uFF0C\u5316\u4F5C\u767D\u9A6C\u9A6E\u8D1F\u5510\u50E7\u897F\u884C\u53D6\u7ECF\uFF0C\u6210\u4E3A\u53D6\u7ECF\u56E2\u961F\u4E2D\u4E0D\u53EF\u6216\u7F3A\u7684\u9ED8\u9ED8\u5949\u732E\u8005\u3002White
+  content: "\u200B\u200B\u767D\u9F99\u9A6C\u200B\u200B\uFF0C\u672C\u4E3A\u897F\u6D77\u9F99\u738B\u4E09\u592A\u5B50\uFF0C\u5F97\u89C2\u97F3\u83E9\u8428\u70B9\u5316\uFF0C\u5316\u4F5C\u767D\u9A6C\uFF0C\u6210\u4E3A\u53D6\u7ECF\u56E2\u961F\u4E2D\u7684\u9ED8\u9ED8\u5949\u732E\u8005\u3002White
     Dragon Horse, originally the third prince of the Dragon King of the Western Sea,
-    was relegated to the Eagle's Nostalgia Stream in the Snake Plate Mountain to
-    be punished for violating the Heavenly Laws by arson and destroying the Jade
-    Emperor's imperial pearl. Later, he was enlightened by the Goddess of Mercy and
-    turned into a white horse to carry the Longevity Monk on his journey to the west
-    to fetch scriptures, and became an indispensable and silent contributor to the
-    scripture-fetching team."
+    was enlightened by the Goddess of Mercy, transformed into a white horse, and
+    became the silent dedication of the scripture-fetching team."
 --- !u!1 &2096947061
 GameObject:
   m_ObjectHideFlags: 0
