@@ -46,6 +46,7 @@ public class intro : MonoBehaviour
         {
             index--;
             HideAllPages();
+            buttonOk.SetActive(false);
             buttonNext.SetActive(true);
             pages[index].SetActive(true);
             if (index == 0)
