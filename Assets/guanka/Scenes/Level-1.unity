@@ -1963,7 +1963,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   downHeight: 6
-  speed: 8
+  speed: 5
 --- !u!1 &312952632
 GameObject:
   m_ObjectHideFlags: 0
