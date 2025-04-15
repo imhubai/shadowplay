@@ -33,4 +33,12 @@ public class TZStudyPY : MonoBehaviour
     {
         PanelPYMade.SetActive(false);
     }
+    public void ceshi1()
+    {
+        SceneManager.LoadScene("Level-4");
+    }
+    public void ceshi2()
+    {
+        SceneManager.LoadScene("SelfTest");
+    }
 }

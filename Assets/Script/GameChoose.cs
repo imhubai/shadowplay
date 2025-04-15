@@ -30,7 +30,7 @@ public class GameChoose : MonoBehaviour
     }
     public void CaochuanOnclick()
     {
-        SceneManager.LoadScene("BoatRule");
+        SceneManager.LoadScene("Level0");
 
     }
     public void BacktoXitongOnclick()
