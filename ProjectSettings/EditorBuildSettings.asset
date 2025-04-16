@@ -24,6 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/LightRule.unity
     guid: 63bcd3a01ed4d3045ae1b528e449bde6
   - enabled: 1
+    path: Assets/Scenes/test2.unity
+    guid: 22a63f7197a31894a92adee3a9695eb3
+  - enabled: 1
     path: Assets/Scenes/Light.unity
     guid: 5977e94a83adb0c49bfb0efd763ef9c3
   - enabled: 1
@@ -50,6 +53,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/guanka/Scenes/Level-1.unity
     guid: 316a1c135c6e5404aa8dd70f5cf8dc76
+  - enabled: 1
+    path: Assets/guanka/Scenes/SelfTest.unity
+    guid: 28d1f3764cb02af43b5e0b53ab9dc776
   - enabled: 1
     path: Assets/guanka/Scenes/Settings.unity
     guid: 11d63b1fca6ac99498091c69b3badca1

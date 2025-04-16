@@ -29,7 +29,7 @@ public class TZ1 : MonoBehaviour
     }
     public void TestOnclick()
     {
-        SceneManager.LoadScene("Test");
+        SceneManager.LoadScene("test2");
 
     }
     public void BacktoOnclick()

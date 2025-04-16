@@ -59,7 +59,7 @@ public class PlayGate : MonoBehaviour
             _temp = Instantiate(levelContentPrefab, content.transform);
             _temp.GetComponent<LevelContent>().Init(levelInfo.name, levelInfo.levelSceneName, best, isLocked);
             _temp.GetComponent<RectTransform>().anchoredPosition =
-                new Vector3(10.5f, _topPos + _levelIndex * (-150f), 0);
+                new Vector3(10.5f, _topPos + _levelIndex * (-100f), 0);
             _levelIndex++;
         }
     }
